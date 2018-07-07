@@ -2,89 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c9f90f-11ed-41c1-bd2c-1dd3562477a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/FamilyInformation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StatisticalFigure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentEmInformation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentInfo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentInformation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentLeft.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentPubMed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentRevise.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/StudentScInformation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/TeacherInfo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/TeacherPersonalInfo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/password.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/punishment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/school-msg.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/search-now.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/search404.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/searchNo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/student.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/css/submit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/PubMed-msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/archives-msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/border.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/column.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/job-change.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/job-msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/modify-password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/option.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/personal-msg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/pin_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/soso-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/soso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/images/sousuo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/js/StudentBasicInformation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/js/china.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/js/employmentinfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/static/WEB/js/jquery-1.9.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/FamilyInformation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/SearchNow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StatisticalFigure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentEmInformation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentIndex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentInformation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentLeft.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentPubMed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentRevise.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentRight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentScInformation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/StudentTop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherEmInformation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherIndex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherLeft.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherPersonalInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherPubMed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherRight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/TeacherTop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/Teacherinvestigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/fail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/investigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/punishment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/school-msg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/search404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/searchNo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB/templates/successful.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebShell/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebShell.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebShell.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShell/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebShell/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShell/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebShell/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,15 +13,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/WebShell$run_server.coverage" NAME="run-server Coverage Results" MODIFIED="1530965821605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WebShell$manage.coverage" NAME="manage Coverage Results" MODIFIED="1530949176485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebShell/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="1463">
               <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -110,7 +42,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebShell/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="380">
               <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="e#632#664#0" expanded="true" />
@@ -122,8 +54,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -139,20 +71,11 @@
       <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebShell/view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="19">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WEB/templates/student.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="136" column="11" lean-forward="true" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -165,8 +88,8 @@
       <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB/templates/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -175,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/WEB/templates/StudentIndex.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -183,8 +106,8 @@
       <file leaf-file-name="StudentLeft.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB/templates/StudentLeft.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-333">
-              <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="209">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -246,7 +169,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -291,9 +214,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -314,6 +238,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.WebShell">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="WebShell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebShell" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,6 +276,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="run-server" type="PythonConfigurationType" factoryName="Python">
+      <module name="WebShell" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\python3.7\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="WebShell" type="Python.DjangoServer" factoryName="Django server">
       <module name="WebShell" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,14 +303,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="WebShell.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_HOME" value="E:\python3.7\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="" />
+      <option name="host" value="127.0.0.1" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -358,6 +320,8 @@
     </configuration>
     <list>
       <item itemvalue="Django server.WebShell" />
+      <item itemvalue="Python.run-server" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.manage" />
     </list>
     <recent_temporary>
@@ -380,7 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -388,12 +352,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32874355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280757" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3253012" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24043716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24011713" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -404,6 +367,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,6 +377,84 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShell/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShell/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebShell/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="136" column="11" lean-forward="true" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/SearchNow.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/StudentIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/StudentLeft.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebShell/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -479,33 +521,12 @@
     <entry file="file://$PROJECT_DIR$/venv/Scripts/django-admin.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB/templates/js/china.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB/templates/js/china.js" />
     <entry file="file://$PROJECT_DIR$/WEB/static/WEB/css/login.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/StudentScInformation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/StudentScInformation.html" />
+    <entry file="file://$PROJECT_DIR$/templates/student.html" />
     <entry file="file://$PROJECT_DIR$/WEB/static/WEB/css/common.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -540,11 +561,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/static/WEB/js/jquery-1.9.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9691">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-9691" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/static/WEB/js/StudentBasicInformation.js">
@@ -579,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/templates/student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="136" column="11" lean-forward="true" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        <state relative-caret-position="2584">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -589,21 +606,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/templates/search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="190">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/templates/StudentLeft.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="209">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebShell/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="380">
           <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding>
             <element signature="e#632#664#0" expanded="true" />
@@ -613,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="152">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -623,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebShell/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="19">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
@@ -634,7 +651,7 @@
     <entry file="file://$PROJECT_DIR$/WEB/templates/StudentIndex.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -643,8 +660,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebShell/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
+        <state relative-caret-position="1463">
           <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
